@@ -8,10 +8,16 @@ public class MainActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+
+
+        /**
+         * Kunal Vohra
+         * this activity is the home page
+         */
+
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        //Chris has commented
-        
+
     }
 }

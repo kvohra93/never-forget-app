@@ -23,4 +23,10 @@ The application consists of 4 activities as below:-
 
 Users can add multiple events and can synchronize between other android devices to get notified on any of their devices. Users will also be allowed to share their events with other users using our Share feature.
 
+## Risky Components
+•	To handle displaying of event objects, we will implement a recycler view.
+
+•	To handle different type of event objects, we will use fragments which will toggle active or inactive based on current selection.
+
+
 

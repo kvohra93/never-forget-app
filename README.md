@@ -28,5 +28,22 @@ Users can add multiple events and can synchronize between other android devices 
 
 •	To handle different type of event objects, we will use fragments which will toggle active or inactive based on current selection.
 
+## App End Goals
+
+- Notifies user of due events at specified timings.
+
+- implements User Accounts and syncing.
+
+- Allows adding multiple events per user.
+
+- Share events with interested shareholders.
+
+- View/Modify previously set events and notifications.
+
+- Set repeating notifications (daily, weekly, yearly, etc.)
+
+- Display motivation quotes on home screen.
+
+
 
 

@@ -14,3 +14,11 @@ Our application tries to help forgetful people and remind them of any events the
 -	Things can repeat 
 -	It can publish reminders to interested subscribers
 
+## Applications
+The application consists of 4 activities as below:-
+1.	<b> Home </b> - Here, the user can view, access and modify events added earlier, modify application settings and also view a motivational quote 
+2.	<b>Create Reminder</b> - The user creates a new reminder of their choice by setting, day, date and time and selecting all other settings for the event
+3.	<b>View Reminder</b> - This is the landing page after user selects an activity from the home recycler view list
+4.	<b>Settings </b> - Here, the user can access all the application related settings
+
+

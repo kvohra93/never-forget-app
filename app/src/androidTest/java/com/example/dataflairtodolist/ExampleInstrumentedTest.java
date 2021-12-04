@@ -1,4 +1,4 @@
-package com.example.never_forget_app;
+package com.example.dataflairtodolist;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.example.never_forget_app", appContext.getPackageName());
+        assertEquals("com.example.todo", appContext.getPackageName());
     }
 }

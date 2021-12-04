@@ -1,4 +1,4 @@
-package com.example.never_forget_app;
+package com.example.dataflairtodolist;
 
 import org.junit.Test;
 
